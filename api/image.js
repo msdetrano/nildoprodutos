@@ -1,4 +1,4 @@
-import {readImage,json,onlyMethod} from './_lib.mjs';
+import {readImage,json,onlyMethod} from '../lib/catalog.mjs';
 export default async function handler(req,res){
  if(!onlyMethod(req,res,['GET']))return;
  try{const data=await readImage(String(req.query?.id||''));if(!data)return json(res,404,{error:'Foto não encontrada.'});

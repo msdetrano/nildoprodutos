@@ -1,4 +1,4 @@
-import {getCatalog,saveCatalog,requireAdmin,requireSameOrigin,json,onlyMethod,errorJSON,cleanProduct,tidy} from '../_lib.mjs';
+import {getCatalog,saveCatalog,requireAdmin,requireSameOrigin,json,onlyMethod,errorJSON,cleanProduct,tidy} from '../../lib/catalog.mjs';
 export default async function handler(req,res){
  if(!onlyMethod(req,res,['GET','POST','PUT','DELETE','PATCH']))return;
  if(!requireAdmin(req,res))return;

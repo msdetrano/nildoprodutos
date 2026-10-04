@@ -1,4 +1,5 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "version": 2,
   "framework": null,
   "rewrites": [
@@ -12,6 +13,10 @@
     },
     {
       "source": "/privacidade",
+      "destination": "/privacidade.html"
+    },
+    {
+      "source": "/privacidade/",
       "destination": "/privacidade.html"
     }
   ],
@@ -48,5 +53,7 @@
     "api/**/*.js": {
       "includeFiles": "data/catalog.json"
     }
-  }
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": "public"
 }

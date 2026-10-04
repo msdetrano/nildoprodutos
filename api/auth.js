@@ -1,4 +1,4 @@
-import {validSession,requireSameOrigin,json,onlyMethod,blockLogin,passwordValid,sessionCookie,logoutCookie} from './_lib.mjs';
+import {validSession,requireSameOrigin,json,onlyMethod,blockLogin,passwordValid,sessionCookie,logoutCookie} from '../lib/catalog.mjs';
 export default async function handler(req,res){
  if(!onlyMethod(req,res,['GET','POST','DELETE']))return;
  if(req.method==='GET')return json(res,200,{authenticated:validSession(req)});
