@@ -74,6 +74,6 @@ O build confere a sintaxe, os arquivos do PWA, a integridade do catálogo e os t
 - `scripts/`: servidor local e validações.
 - `tests/`: testes de catálogo, pedidos, API e cache offline.
 
-O catálogo é um instantâneo com 60 fotos das galerias e dois itens adicionais. Há 22 fotos sem nome textual confiável: aparecem com códigos de referência para serem identificadas e renomeadas pela gestão. As fotos externas dependem dos endereços mantidos pelo fabricante. A prévia HTML independente é uma demonstração; a versão para publicar é a pasta `public` junto da API.
+O catálogo é um instantâneo com 60 fotos das galerias e dois itens adicionais. As 22 fotos anteriormente sem nome foram identificadas pelos rótulos oficiais e pelo catálogo do fabricante. As referências de pesquisa estão em `data/aylag-galleries.json`. A leitura do catálogo corrige os campos provisórios de produtos já salvos, preservando alterações da gestão, preços e fotos. As fotos externas dependem dos endereços mantidos pelo fabricante. A prévia HTML independente é uma demonstração; a versão para publicar é a pasta `public` junto da API.
 
 O carrinho fica no aparelho do cliente. O service worker guarda apenas a loja e o catálogo público; login e gestão sempre consultam o servidor. O WhatsApp abre com o pedido preenchido, e o cliente confirma o envio no aplicativo.

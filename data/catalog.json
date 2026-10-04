@@ -361,10 +361,10 @@
     },
     {
       "id": "aylag-galeria-c12",
-      "name": "Produto Aylag · foto C12",
+      "name": "Desinfetante Floral Aylag 2L",
       "category": "Casa & Limpeza",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (C12). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Desinfetante Aylag com fragrância floral para a limpeza de ambientes. Embalagem de 2 litros. Siga as orientações do rótulo.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_f17c6860d0dc4805aabd473b9cc1da3c~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_f17c6860d0dc4805aabd473b9cc1da3c~mv2.png"
@@ -373,14 +373,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/casa-limpeza",
       "galleryCode": "C12",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-c15",
-      "name": "Produto Aylag · foto C15",
+      "name": "Desinfetante Lavanda Aylag 2L",
       "category": "Casa & Limpeza",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (C15). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Desinfetante Aylag com fragrância lavanda para a limpeza de ambientes. Embalagem de 2 litros. Siga as orientações do rótulo.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_fd20af86e18949198f8526d5291d54a3~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_fd20af86e18949198f8526d5291d54a3~mv2.png"
@@ -389,7 +389,7 @@
       "featured": false,
       "source": "https://www.aylag.com.br/casa-limpeza",
       "galleryCode": "C15",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-016",
@@ -528,10 +528,10 @@
     },
     {
       "id": "aylag-galeria-l09",
-      "name": "Produto Aylag · foto L09",
+      "name": "Lava-Roupas Líquido Azul Aylag 1L",
       "category": "Lavanderia",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (L09). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "1 litro",
+      "description": "Lava-roupas líquido azul para roupas brancas e coloridas. Indicado para lavagem à mão, no tanque ou na máquina. Embalagem de 1 litro.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_491f606e4b1740c19ce90ccc363adb00~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_491f606e4b1740c19ce90ccc363adb00~mv2.jpg"
@@ -540,14 +540,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/lavanderia",
       "galleryCode": "L09",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-l10",
-      "name": "Produto Aylag · foto L10",
+      "name": "Lava-Roupas Líquido Azul Aylag 2L",
       "category": "Lavanderia",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (L10). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Lava-roupas líquido azul para roupas brancas e coloridas. Indicado para lavagem à mão, no tanque ou na máquina. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_9099c6aed92b4a7cb629172ac9c3fa2f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_9099c6aed92b4a7cb629172ac9c3fa2f~mv2.jpg"
@@ -556,14 +556,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/lavanderia",
       "galleryCode": "L10",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-l11",
-      "name": "Produto Aylag · foto L11",
+      "name": "Lava-Roupas Líquido Azul Aylag 5L",
       "category": "Lavanderia",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (L11). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "5 litros",
+      "description": "Lava-roupas líquido azul para roupas brancas e coloridas. Indicado para lavagem à mão, no tanque ou na máquina. Embalagem de 5 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_2a312e3e48d1402fad6283f5db0c7ffa~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_2a312e3e48d1402fad6283f5db0c7ffa~mv2.jpg"
@@ -572,14 +572,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/lavanderia",
       "galleryCode": "L11",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-l12",
-      "name": "Produto Aylag · foto L12",
+      "name": "Lava-Roupas Líquido Coco Aylag 2L",
       "category": "Lavanderia",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (L12). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Lava-roupas líquido de coco para roupas brancas e coloridas. A versão coco é indicada pelo fabricante para roupas delicadas e infantis. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_8c49c3399a394b8da7a99ff4ba1b780b~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_8c49c3399a394b8da7a99ff4ba1b780b~mv2.jpg"
@@ -588,14 +588,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/lavanderia",
       "galleryCode": "L12",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-l13",
-      "name": "Produto Aylag · foto L13",
+      "name": "Lava-Roupas Líquido Coco Aylag 5L",
       "category": "Lavanderia",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (L13). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "5 litros",
+      "description": "Lava-roupas líquido de coco para roupas brancas e coloridas. A versão coco é indicada pelo fabricante para roupas delicadas e infantis. Embalagem de 5 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_45ad4b7a6fd1456ca782310336c9f1bf~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_45ad4b7a6fd1456ca782310336c9f1bf~mv2.jpg"
@@ -604,14 +604,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/lavanderia",
       "galleryCode": "L13",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-l14",
-      "name": "Produto Aylag · foto L14",
+      "name": "Amaciante Azul Toda Família Rende Mais 2L",
       "category": "Lavanderia",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (L14). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Amaciante de roupas azul Toda Família, da linha Rende Mais da Aylag. Para deixar as roupas macias e perfumadas. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_8efee0c4fb6a43169dd9fcf96c67af3c~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_8efee0c4fb6a43169dd9fcf96c67af3c~mv2.png"
@@ -620,7 +620,7 @@
       "featured": false,
       "source": "https://www.aylag.com.br/lavanderia",
       "galleryCode": "L14",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-021",
@@ -654,10 +654,10 @@
     },
     {
       "id": "aylag-galeria-a02",
-      "name": "Produto Aylag · foto A02",
+      "name": "Detergente Automotivo Aylag 1L",
       "category": "Automotiva & Profissional",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (A02). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "1 litro",
+      "description": "Detergente automotivo com fragrância tutti-frutti para a lavagem de veículos. Use conforme as instruções da embalagem de 1 litro.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_66cf6683f9c94c3eaa0e08ce0fc3658f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_66cf6683f9c94c3eaa0e08ce0fc3658f~mv2.jpg"
@@ -666,14 +666,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/automotivo-profissional",
       "galleryCode": "A02",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-a03",
-      "name": "Produto Aylag · foto A03",
+      "name": "Detergente Automotivo Aylag 2L",
       "category": "Automotiva & Profissional",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (A03). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Detergente automotivo com fragrância tutti-frutti para a lavagem de veículos. Use conforme as instruções da embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_43db8161315640cc950eedf2ae5f134f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_43db8161315640cc950eedf2ae5f134f~mv2.jpg"
@@ -682,14 +682,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/automotivo-profissional",
       "galleryCode": "A03",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-a04",
-      "name": "Produto Aylag · foto A04",
+      "name": "Detergente Automotivo Aylag 5L",
       "category": "Automotiva & Profissional",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (A04). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "5 litros",
+      "description": "Detergente automotivo com fragrância tutti-frutti para a lavagem de veículos. Use conforme as instruções da embalagem de 5 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_2ff287afdbe443ed95fce800e0efdeee~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_2ff287afdbe443ed95fce800e0efdeee~mv2.jpg"
@@ -698,14 +698,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/automotivo-profissional",
       "galleryCode": "A04",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-a05",
-      "name": "Produto Aylag · foto A05",
+      "name": "Limpa Baú Aylag 2L",
       "category": "Automotiva & Profissional",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (A05). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Desincrustante ácido de uso profissional para partes metálicas de baús de caminhões e veículos. Enxágue após o uso e siga as precauções do rótulo. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_943adedbe99c489ab9f08c6f30636575~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_943adedbe99c489ab9f08c6f30636575~mv2.jpg"
@@ -714,14 +714,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/automotivo-profissional",
       "galleryCode": "A05",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-a06",
-      "name": "Produto Aylag · foto A06",
+      "name": "Limpa Pneus Pretim Aylag 1L",
       "category": "Automotiva & Profissional",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (A06). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "1 litro",
+      "description": "Finalizador para dar brilho aos pneus após a lavagem. Embalagem de 1 litro. Aplique conforme as instruções do rótulo.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_08dd0ee88ba7491eac83951c1b654de9~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_08dd0ee88ba7491eac83951c1b654de9~mv2.jpg"
@@ -730,14 +730,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/automotivo-profissional",
       "galleryCode": "A06",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-a07",
-      "name": "Produto Aylag · foto A07",
+      "name": "Limpa Pneus Pretim Aylag 5L",
       "category": "Automotiva & Profissional",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (A07). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "5 litros",
+      "description": "Finalizador para dar brilho aos pneus após a lavagem. Embalagem de 5 litros. Aplique conforme as instruções do rótulo.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_abffb914ad9c4495914e6f97a86d0e00~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_abffb914ad9c4495914e6f97a86d0e00~mv2.jpg"
@@ -746,7 +746,7 @@
       "featured": false,
       "source": "https://www.aylag.com.br/automotivo-profissional",
       "galleryCode": "A07",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-028",
@@ -825,10 +825,10 @@
     },
     {
       "id": "aylag-galeria-s03",
-      "name": "Produto Aylag · foto S03",
+      "name": "Sabonete Líquido Erva-Doce Aylag 1L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S03). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "1 litro",
+      "description": "Sabonete líquido perfumado para a limpeza das mãos, com fragrância erva-doce. Embalagem de 1 litro.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_6f4fa5ec30da4644b0d9dd373d996fbf~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_6f4fa5ec30da4644b0d9dd373d996fbf~mv2.jpg"
@@ -837,14 +837,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S03",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s04",
-      "name": "Produto Aylag · foto S04",
+      "name": "Sabonete Perolado Erva-Doce Aylag 1L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S04). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "1 litro",
+      "description": "Sabonete para a limpeza das mãos, com acabamento perolado e fragrância erva-doce. Embalagem de 1 litro.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_cab0001cdf784265a579ef892defd402~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_cab0001cdf784265a579ef892defd402~mv2.jpg"
@@ -853,14 +853,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S04",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s05",
-      "name": "Produto Aylag · foto S05",
+      "name": "Sabonete Líquido Erva-Doce Aylag 2L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S05). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Sabonete líquido perfumado para a limpeza das mãos, com fragrância erva-doce. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_72a687059a774f559a1c73c1fd93c922~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_72a687059a774f559a1c73c1fd93c922~mv2.jpg"
@@ -869,14 +869,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S05",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s06",
-      "name": "Produto Aylag · foto S06",
+      "name": "Sabonete Perolado Erva-Doce Aylag 2L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S06). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Sabonete para a limpeza das mãos, com acabamento perolado e fragrância erva-doce. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_29439e02aca34002892a11b851788a22~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_29439e02aca34002892a11b851788a22~mv2.jpg"
@@ -885,14 +885,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S06",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s09",
-      "name": "Produto Aylag · foto S09",
+      "name": "Sabonete Líquido Pitanga Aylag 1L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S09). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "1 litro",
+      "description": "Sabonete líquido perfumado para a limpeza das mãos, com fragrância pitanga. Embalagem de 1 litro.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_97acc364d575426ab66cf02c3c5869c6~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_97acc364d575426ab66cf02c3c5869c6~mv2.jpg"
@@ -901,14 +901,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S09",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s10",
-      "name": "Produto Aylag · foto S10",
+      "name": "Sabonete Líquido Pitanga Aylag 2L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S10). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "2 litros",
+      "description": "Sabonete líquido perfumado para a limpeza das mãos, com fragrância pitanga. Embalagem de 2 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_aab872de8f2d4e718fda1d8aa6d99df8~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_aab872de8f2d4e718fda1d8aa6d99df8~mv2.jpg"
@@ -917,14 +917,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S10",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s11",
-      "name": "Produto Aylag · foto S11",
+      "name": "Sabonete Perolado Pitanga Aylag 5L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S11). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "5 litros",
+      "description": "Sabonete para a limpeza das mãos, com acabamento perolado e fragrância pitanga. Embalagem de 5 litros.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_345d380b83cf4f089694af72944a9d37~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_345d380b83cf4f089694af72944a9d37~mv2.jpg"
@@ -933,14 +933,14 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S11",
-      "needsReview": true
+      "needsReview": false
     },
     {
       "id": "aylag-galeria-s13",
-      "name": "Produto Aylag · foto S13",
+      "name": "Sabonete Antisséptico Aylag 5L",
       "category": "Cosméticos",
-      "volume": "Confirmar com o Nildo",
-      "description": "Imagem da galeria oficial Aylag (S13). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "volume": "5 litros",
+      "description": "Sabonete antisséptico para a higienização das mãos, em embalagem de 5 litros. Use conforme as instruções e precauções do fabricante.",
       "price": null,
       "images": [
         "https://static.wixstatic.com/media/8f8890_50b65aaa73cf4dcb9e923a413a0f9ac9~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_50b65aaa73cf4dcb9e923a413a0f9ac9~mv2.png"
@@ -949,7 +949,7 @@
       "featured": false,
       "source": "https://www.aylag.com.br/cosmeticos",
       "galleryCode": "S13",
-      "needsReview": true
+      "needsReview": false
     }
   ],
   "settings": {
