@@ -1,0 +1,17 @@
+{
+  "name": "nildo-produtos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Catálogo PWA de produtos com pedidos pelo WhatsApp e painel administrativo",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check public/app.js && node --check public/admin.js && node --check api/_lib.mjs",
+    "start": "node scripts/dev.mjs",
+    "verify:catalog": "node scripts/seed.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

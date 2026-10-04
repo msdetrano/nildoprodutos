@@ -1,0 +1,960 @@
+{
+  "products": [
+    {
+      "id": "aylag-019",
+      "name": "Cera Líquida 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Cera Líquida 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_9fefd5e159cd49b6b74f42c45f4bd3c2~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_9fefd5e159cd49b6b74f42c45f4bd3c2~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C07"
+    },
+    {
+      "id": "aylag-018",
+      "name": "Cera Líquida 750ml",
+      "category": "Casa & Limpeza",
+      "volume": "750 ml",
+      "description": "Cera Líquida 750ml da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_ab68225d45fc473fb406ec7bf5c45584~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_ab68225d45fc473fb406ec7bf5c45584~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C06"
+    },
+    {
+      "id": "aylag-020",
+      "name": "Desengordurante 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desengordurante 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_443d5999c2784b31993bf0f1748a2839~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_443d5999c2784b31993bf0f1748a2839~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C21"
+    },
+    {
+      "id": "aylag-023",
+      "name": "Desinfetante Algas 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desinfetante Algas 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_93d3cadb8a9d488a913305b781268b5e~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_93d3cadb8a9d488a913305b781268b5e~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C08"
+    },
+    {
+      "id": "aylag-024",
+      "name": "Desinfetante Algas 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Desinfetante Algas 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_2e429f1c9b1941d88ebcdadd756cf83b~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_2e429f1c9b1941d88ebcdadd756cf83b~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C09"
+    },
+    {
+      "id": "aylag-025",
+      "name": "Desinfetante Eucalipto 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desinfetante Eucalipto 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_af2cc813ffbf4489ba1c278d1000baae~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_af2cc813ffbf4489ba1c278d1000baae~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C10"
+    },
+    {
+      "id": "aylag-031",
+      "name": "Desinfetante Eucalipto 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Desinfetante Eucalipto 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_c037e8811b194d8abaabbb0d4640b7c9~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_c037e8811b194d8abaabbb0d4640b7c9~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C11"
+    },
+    {
+      "id": "aylag-032",
+      "name": "Desinfetante Floral 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Desinfetante Floral 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_288b4cbf9fab4991bd1e5ab497fe991a~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_288b4cbf9fab4991bd1e5ab497fe991a~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C13"
+    },
+    {
+      "id": "aylag-033",
+      "name": "Desinfetante Jasmim 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desinfetante Jasmim 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_e8fedfe59a0b4dcbb0c41738478120d9~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_e8fedfe59a0b4dcbb0c41738478120d9~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C14"
+    },
+    {
+      "id": "aylag-034",
+      "name": "Desinfetante Madeira do Campo 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desinfetante Madeira do Campo 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_65cfa1c433e149efaac18f998ada4f2c~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_65cfa1c433e149efaac18f998ada4f2c~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C16"
+    },
+    {
+      "id": "aylag-035",
+      "name": "Desinfetante Madeira do Campo 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Desinfetante Madeira do Campo 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_892504a7e1694ac78d8b9db73d28d0e0~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_892504a7e1694ac78d8b9db73d28d0e0~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C17"
+    },
+    {
+      "id": "aylag-036",
+      "name": "Desinfetante Rosas 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desinfetante Rosas 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_bdc4e6af7cae4d479327ea37180c64da~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_bdc4e6af7cae4d479327ea37180c64da~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C18"
+    },
+    {
+      "id": "aylag-037",
+      "name": "Desinfetante Rosas 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Desinfetante Rosas 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_994c33b6c73e40c183f5ff41a929b698~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_994c33b6c73e40c183f5ff41a929b698~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C19"
+    },
+    {
+      "id": "aylag-038",
+      "name": "Desinfetante Talco 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Desinfetante Talco 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_51f913db3f92444ea8a3c33d844fd03f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_51f913db3f92444ea8a3c33d844fd03f~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C20"
+    },
+    {
+      "id": "aylag-039",
+      "name": "Detergente Clear 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Detergente Clear 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_9bcf9d772c854253ae4ff252cd8436c1~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_9bcf9d772c854253ae4ff252cd8436c1~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C23"
+    },
+    {
+      "id": "aylag-027",
+      "name": "Detergente Clear 500ml",
+      "category": "Casa & Limpeza",
+      "volume": "500 ml",
+      "description": "Detergente Limão 500ml da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_76e654f9928b4ca8b2642ce2959ef810~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_76e654f9928b4ca8b2642ce2959ef810~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C22"
+    },
+    {
+      "id": "aylag-040",
+      "name": "Detergente Limão 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Detergente Limão 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_e619a8649b5046f68470b2649a61e724~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_e619a8649b5046f68470b2649a61e724~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C25"
+    },
+    {
+      "id": "aylag-026",
+      "name": "Detergente Limão 500ml",
+      "category": "Casa & Limpeza",
+      "volume": "500 ml",
+      "description": "Detergente Clear 500ml da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_e2a568d4fec44ef183a2c0a9ad3a1a6e~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_e2a568d4fec44ef183a2c0a9ad3a1a6e~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C24"
+    },
+    {
+      "id": "aylag-010",
+      "name": "Água Sanitária Aylag 1L",
+      "category": "Casa & Limpeza",
+      "volume": "1 litro",
+      "description": "Água Sanitária 1L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_c781429635924e128252ace387a922d8~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_c781429635924e128252ace387a922d8~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C01"
+    },
+    {
+      "id": "aylag-009",
+      "name": "Água Sanitária Aylag 2L",
+      "category": "Casa & Limpeza",
+      "volume": "2 litros",
+      "description": "Água Sanitária 2L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_7c7924206e964995a6eb2352d3d7348f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_7c7924206e964995a6eb2352d3d7348f~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C02"
+    },
+    {
+      "id": "aylag-008",
+      "name": "Água Sanitária Aylag 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Água Sanitária Aylag 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_2c7fe82300164f4e812728a5250234fd~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_2c7fe82300164f4e812728a5250234fd~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C03"
+    },
+    {
+      "id": "aylag-011",
+      "name": "Água Sanitária Rende Mais 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Água Sanitária Rende Mais 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_eea21f8e470d482889ec4174092ca57d~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_eea21f8e470d482889ec4174092ca57d~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/"
+    },
+    {
+      "id": "aylag-013",
+      "name": "Álcool Líquido 1L",
+      "category": "Casa & Limpeza",
+      "volume": "1 litro",
+      "description": "Álcool Líquido 1L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_065a8ea3435a49ea921fe9d7d76d41b5~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_065a8ea3435a49ea921fe9d7d76d41b5~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C04"
+    },
+    {
+      "id": "aylag-014",
+      "name": "Álcool Líquido 5L",
+      "category": "Casa & Limpeza",
+      "volume": "5 litros",
+      "description": "Álcool Líquido 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_422834ef2a374e0b84335c0ba7260b7e~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_422834ef2a374e0b84335c0ba7260b7e~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C05"
+    },
+    {
+      "id": "aylag-galeria-c12",
+      "name": "Produto Aylag · foto C12",
+      "category": "Casa & Limpeza",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (C12). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_f17c6860d0dc4805aabd473b9cc1da3c~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_f17c6860d0dc4805aabd473b9cc1da3c~mv2.png"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C12",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-c15",
+      "name": "Produto Aylag · foto C15",
+      "category": "Casa & Limpeza",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (C15). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_fd20af86e18949198f8526d5291d54a3~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_fd20af86e18949198f8526d5291d54a3~mv2.png"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/casa-limpeza",
+      "galleryCode": "C15",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-016",
+      "name": "Alvejante Sem Cloro 2L",
+      "category": "Lavanderia",
+      "volume": "2 litros",
+      "description": "Alvejante sem cloro Aylag para a rotina de lavanderia. Siga as orientações do rótulo.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_db71d96ef49946f381c586d6e117901d~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_db71d96ef49946f381c586d6e117901d~mv2.png"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L01"
+    },
+    {
+      "id": "aylag-017",
+      "name": "Alvejante Sem Cloro 5L",
+      "category": "Lavanderia",
+      "volume": "5 litros",
+      "description": "Alvejante Sem Cloro 5L da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_93d42bf421174482b3fa882c8c74346d~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_93d42bf421174482b3fa882c8c74346d~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L02"
+    },
+    {
+      "id": "aylag-004",
+      "name": "Amaciante Azul",
+      "category": "Lavanderia",
+      "volume": "Conforme a embalagem",
+      "description": "Amaciante Azul da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_4e71afceebf74fafab825ef10847fb5c~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_4e71afceebf74fafab825ef10847fb5c~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L04"
+    },
+    {
+      "id": "aylag-003",
+      "name": "Amaciante Azul 2L",
+      "category": "Lavanderia",
+      "volume": "2 litros",
+      "description": "Amaciante Azul 2L da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_a3cebaf4c6854112a341b954f096fbd8~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_a3cebaf4c6854112a341b954f096fbd8~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L03"
+    },
+    {
+      "id": "aylag-007",
+      "name": "Amaciante Azul Rende Mais 2L",
+      "category": "Lavanderia",
+      "volume": "2 litros",
+      "description": "Amaciante Azul Rende Mais 2L da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_85650f20616245da93eeceac846343f1~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_85650f20616245da93eeceac846343f1~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/"
+    },
+    {
+      "id": "aylag-001",
+      "name": "Amaciante Branco 2L",
+      "category": "Lavanderia",
+      "volume": "2 litros",
+      "description": "Amaciante Aylag branco para cuidados com as roupas. Confira as instruções no rótulo.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_fad42147c21c492ab490c166dd9f6659~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_fad42147c21c492ab490c166dd9f6659~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L05"
+    },
+    {
+      "id": "aylag-002",
+      "name": "Amaciante Branco 5L",
+      "category": "Lavanderia",
+      "volume": "5 litros",
+      "description": "Amaciante Branco 5L da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_60e2f9df3c3742b9a5b09526fc4c8f90~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_60e2f9df3c3742b9a5b09526fc4c8f90~mv2.jpg",
+        "https://static.wixstatic.com/media/8f8890_9b74718e71504a83b3498cc035a70b41~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_9b74718e71504a83b3498cc035a70b41~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L06"
+    },
+    {
+      "id": "aylag-005",
+      "name": "Amaciante Rosa 2L",
+      "category": "Lavanderia",
+      "volume": "2 litros",
+      "description": "Amaciante Rosa 2L da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_315a1b69a18842f5bf71a7953b804862~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_315a1b69a18842f5bf71a7953b804862~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L07"
+    },
+    {
+      "id": "aylag-006",
+      "name": "Amaciante Rosa 5L",
+      "category": "Lavanderia",
+      "volume": "5 litros",
+      "description": "Amaciante Rosa 5L da linha Lavanderia Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_460ae7d07c974148adf09500e4d94d59~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_460ae7d07c974148adf09500e4d94d59~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L08"
+    },
+    {
+      "id": "aylag-galeria-l09",
+      "name": "Produto Aylag · foto L09",
+      "category": "Lavanderia",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (L09). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_491f606e4b1740c19ce90ccc363adb00~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_491f606e4b1740c19ce90ccc363adb00~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L09",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-l10",
+      "name": "Produto Aylag · foto L10",
+      "category": "Lavanderia",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (L10). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_9099c6aed92b4a7cb629172ac9c3fa2f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_9099c6aed92b4a7cb629172ac9c3fa2f~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L10",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-l11",
+      "name": "Produto Aylag · foto L11",
+      "category": "Lavanderia",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (L11). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_2a312e3e48d1402fad6283f5db0c7ffa~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_2a312e3e48d1402fad6283f5db0c7ffa~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L11",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-l12",
+      "name": "Produto Aylag · foto L12",
+      "category": "Lavanderia",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (L12). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_8c49c3399a394b8da7a99ff4ba1b780b~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_8c49c3399a394b8da7a99ff4ba1b780b~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L12",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-l13",
+      "name": "Produto Aylag · foto L13",
+      "category": "Lavanderia",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (L13). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_45ad4b7a6fd1456ca782310336c9f1bf~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_45ad4b7a6fd1456ca782310336c9f1bf~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L13",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-l14",
+      "name": "Produto Aylag · foto L14",
+      "category": "Lavanderia",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (L14). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_8efee0c4fb6a43169dd9fcf96c67af3c~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_8efee0c4fb6a43169dd9fcf96c67af3c~mv2.png"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/lavanderia",
+      "galleryCode": "L14",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-021",
+      "name": "Desengordurante Alcalino Clorado 5L",
+      "category": "Automotiva & Profissional",
+      "volume": "5 litros",
+      "description": "Produto da linha de limpeza profissional. Consulte o rótulo para modo de uso e precauções.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_13e646c736664136973ee70ccc838726~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_13e646c736664136973ee70ccc838726~mv2.png"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A08"
+    },
+    {
+      "id": "aylag-022",
+      "name": "Desengraxante 2L",
+      "category": "Automotiva & Profissional",
+      "volume": "2 litros",
+      "description": "Desengraxante 2L da linha Automotiva & Profissional Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_e026be27bbad4037b307d262dabdb610~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_e026be27bbad4037b307d262dabdb610~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A01"
+    },
+    {
+      "id": "aylag-galeria-a02",
+      "name": "Produto Aylag · foto A02",
+      "category": "Automotiva & Profissional",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (A02). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_66cf6683f9c94c3eaa0e08ce0fc3658f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_66cf6683f9c94c3eaa0e08ce0fc3658f~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A02",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-a03",
+      "name": "Produto Aylag · foto A03",
+      "category": "Automotiva & Profissional",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (A03). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_43db8161315640cc950eedf2ae5f134f~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_43db8161315640cc950eedf2ae5f134f~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A03",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-a04",
+      "name": "Produto Aylag · foto A04",
+      "category": "Automotiva & Profissional",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (A04). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_2ff287afdbe443ed95fce800e0efdeee~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_2ff287afdbe443ed95fce800e0efdeee~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A04",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-a05",
+      "name": "Produto Aylag · foto A05",
+      "category": "Automotiva & Profissional",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (A05). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_943adedbe99c489ab9f08c6f30636575~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_943adedbe99c489ab9f08c6f30636575~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A05",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-a06",
+      "name": "Produto Aylag · foto A06",
+      "category": "Automotiva & Profissional",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (A06). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_08dd0ee88ba7491eac83951c1b654de9~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_08dd0ee88ba7491eac83951c1b654de9~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A06",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-a07",
+      "name": "Produto Aylag · foto A07",
+      "category": "Automotiva & Profissional",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (A07). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_abffb914ad9c4495914e6f97a86d0e00~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_abffb914ad9c4495914e6f97a86d0e00~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/automotivo-profissional",
+      "galleryCode": "A07",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-028",
+      "name": "Sabonete Líquido Erva-Doce 5L",
+      "category": "Cosméticos",
+      "volume": "5 litros",
+      "description": "Sabonete líquido Aylag com fragrância erva-doce. Confira o modo de uso na embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_cc1b39a570fa45f3b4235e79648628f8~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_cc1b39a570fa45f3b4235e79648628f8~mv2.jpg"
+      ],
+      "active": true,
+      "featured": true,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S07"
+    },
+    {
+      "id": "aylag-030",
+      "name": "Sabonete Líquido Neutro 5L",
+      "category": "Cosméticos",
+      "volume": "5 litros",
+      "description": "Sabonete Líquido Neutro 5L da linha Cosméticos Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_58c4ce7f133d4499850dc07609115301~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_58c4ce7f133d4499850dc07609115301~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S12"
+    },
+    {
+      "id": "aylag-029",
+      "name": "Sabonete Perolado Erva-Doce 5L",
+      "category": "Cosméticos",
+      "volume": "5 litros",
+      "description": "Sabonete Perolado Erva-Doce 5L da linha Cosméticos Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_77fa3c8fae024959b87b2229088a56f3~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_77fa3c8fae024959b87b2229088a56f3~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S08"
+    },
+    {
+      "id": "aylag-012",
+      "name": "Álcool em Gel 500ml",
+      "category": "Cosméticos",
+      "volume": "500 ml",
+      "description": "Álcool em Gel 500ml da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_be251132d86c46258ea284ad1607e4a4~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_be251132d86c46258ea284ad1607e4a4~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S01"
+    },
+    {
+      "id": "aylag-015",
+      "name": "Álcool em Gel 5L",
+      "category": "Cosméticos",
+      "volume": "5 litros",
+      "description": "Álcool em Gel 5L da linha Casa & Limpeza Aylag. Confira informações e precauções de uso no rótulo da embalagem.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_22cc8264f6a0445d9fa3b68748f52b39~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_22cc8264f6a0445d9fa3b68748f52b39~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S02"
+    },
+    {
+      "id": "aylag-galeria-s03",
+      "name": "Produto Aylag · foto S03",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S03). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_6f4fa5ec30da4644b0d9dd373d996fbf~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_6f4fa5ec30da4644b0d9dd373d996fbf~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S03",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s04",
+      "name": "Produto Aylag · foto S04",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S04). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_cab0001cdf784265a579ef892defd402~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_cab0001cdf784265a579ef892defd402~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S04",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s05",
+      "name": "Produto Aylag · foto S05",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S05). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_72a687059a774f559a1c73c1fd93c922~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_72a687059a774f559a1c73c1fd93c922~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S05",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s06",
+      "name": "Produto Aylag · foto S06",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S06). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_29439e02aca34002892a11b851788a22~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_29439e02aca34002892a11b851788a22~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S06",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s09",
+      "name": "Produto Aylag · foto S09",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S09). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_97acc364d575426ab66cf02c3c5869c6~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_97acc364d575426ab66cf02c3c5869c6~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S09",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s10",
+      "name": "Produto Aylag · foto S10",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S10). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_aab872de8f2d4e718fda1d8aa6d99df8~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_aab872de8f2d4e718fda1d8aa6d99df8~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S10",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s11",
+      "name": "Produto Aylag · foto S11",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S11). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_345d380b83cf4f089694af72944a9d37~mv2.jpg/v1/fill/w_650,h_650,al_c,q_85/8f8890_345d380b83cf4f089694af72944a9d37~mv2.jpg"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S11",
+      "needsReview": true
+    },
+    {
+      "id": "aylag-galeria-s13",
+      "name": "Produto Aylag · foto S13",
+      "category": "Cosméticos",
+      "volume": "Confirmar com o Nildo",
+      "description": "Imagem da galeria oficial Aylag (S13). O fabricante não informa o nome desta foto em texto. Mostre a foto ou informe o código ao Nildo para confirmar o produto e a apresentação.",
+      "price": null,
+      "images": [
+        "https://static.wixstatic.com/media/8f8890_50b65aaa73cf4dcb9e923a413a0f9ac9~mv2.png/v1/fill/w_650,h_650,al_c,q_85/8f8890_50b65aaa73cf4dcb9e923a413a0f9ac9~mv2.png"
+      ],
+      "active": true,
+      "featured": false,
+      "source": "https://www.aylag.com.br/cosmeticos",
+      "galleryCode": "S13",
+      "needsReview": true
+    }
+  ],
+  "settings": {
+    "whatsapp": "5514996437437",
+    "storeName": "Nildo - Produtos & Utilidades Domésticas",
+    "notice": "Atendimento pessoal pelo WhatsApp. Valores e disponibilidade sujeitos a confirmação."
+  }
+}
