@@ -17,7 +17,7 @@ Sem o Redis configurado, o ambiente local usa `data/catalog.local.json` para arm
 
 ## Colocar na Vercel (recomendado)
 
-1. Crie um repositório no GitHub (por exemplo `nildo-produtos`) e envie **todo o conteúdo deste projeto** para a raiz. NÃO envie seu `.env`.
+1. O projeto está em https://github.com/msdetrano/nildoprodutos, com os arquivos na raiz. NÃO envie seu `.env`.
 2. Na Vercel: **Add New → Project → Import Git Repository**. Selecione o repositório e configure Framework Preset como **Other**; não há build obrigatório, pois a interface está em `public/` e a API usa Node.js Serverless em `api/`.
 3. Crie um banco **Upstash Redis** (plano gratuito disponível, conforme condições do fornecedor) e copie as credenciais REST. Na Vercel → Project Settings → Environment Variables, configure:
 
@@ -41,7 +41,7 @@ git init
 git add .
 git commit -m "feat: catálogo PWA Nildo com painel de gestão e pedidos WhatsApp"
 git branch -M main
-git remote add origin https://github.com/msdetrano/nildo-produtos.git
+git remote add origin https://github.com/msdetrano/nildoprodutos.git
 git push -u origin main
 ```
 
