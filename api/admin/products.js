@@ -1,18 +1,19 @@
-import {getCatalog,saveCatalog,requireAdmin,requireSameOrigin,json,onlyMethod,errorJSON,cleanProduct,tidy} from '../../lib/catalog.mjs';
+import {getCatalog,saveCatalog,catalogVersion,requireAdmin,requireSameOrigin,json,onlyMethod,errorJSON,cleanProduct,tidy} from '../../lib/catalog.mjs';
 export default async function handler(req,res){
  if(!onlyMethod(req,res,['GET','POST','PUT','DELETE','PATCH']))return;
  if(!requireAdmin(req,res))return;
  if(req.method!=='GET'&&!requireSameOrigin(req,res))return;
  try{
  const catalog=await getCatalog();
- if(req.method==='GET')return json(res,200,catalog);
+ if(req.method==='GET')return json(res,200,{...catalog,version:catalogVersion(catalog)});
  const body=req.body||{};
+ if(body.version&&body.version!==catalogVersion(catalog))return json(res,409,{error:'O catálogo mudou em outra sessão. Atualize a página antes de salvar.'});
  if(req.method==='POST'){
-  const item=cleanProduct(body.product);catalog.products.unshift(item);await saveCatalog(catalog);return json(res,201,{product:item});
+  const item=cleanProduct(body.product);if(item.active&&item.sku&&catalog.products.some(p=>p.active&&p.sku===item.sku))return json(res,409,{error:'Já existe um anúncio visível com este código de produto.'});catalog.products.unshift(item);await saveCatalog(catalog);return json(res,201,{product:item});
  }
  if(req.method==='PUT'){
   const index=catalog.products.findIndex(p=>p.id===body.id);if(index<0)return json(res,404,{error:'Produto não encontrado.'});
-  const item=cleanProduct(body.product,body.id);catalog.products[index]=item;await saveCatalog(catalog);return json(res,200,{product:item});
+  const item=cleanProduct({...catalog.products[index],...body.product},body.id);if(item.active&&item.sku&&catalog.products.some(p=>p.id!==item.id&&p.active&&p.sku===item.sku))return json(res,409,{error:'Já existe um anúncio visível com este código de produto.'});catalog.products[index]=item;await saveCatalog(catalog);return json(res,200,{product:item});
  }
  if(req.method==='DELETE'){
   const index=catalog.products.findIndex(p=>p.id===body.id);if(index<0)return json(res,404,{error:'Produto não encontrado.'});

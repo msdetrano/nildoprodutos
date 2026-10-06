@@ -1,6 +1,6 @@
 # Nildo — Produtos & Utilidades Domésticas
 
-Catálogo PWA com 62 produtos, quatro categorias, gestão em `/gestao` e pedido pelo WhatsApp **+55 14 99643-7437**. Os valores começam como “Consulte o preço”. Não há pagamentos pelo site.
+Catálogo PWA com 62 produtos, quatro categorias, gestão em `/gestao` e pedido pelo WhatsApp **+55 14 99643-7437**. Os valores publicados são preços finais por unidade da tabela de venda fornecida. O catálogo inicial tem 55 anúncios ativos: seis apresentações sem preço permanecem ocultas, e uma referência duplicada do amaciante Rende Mais 2L foi ocultada. Não há pagamentos pelo site.
 
 ## Publicar o repositório existente na Vercel
 
@@ -38,7 +38,7 @@ O endereço esperado é `https://nildoprodutos.vercel.app`, sujeito à disponibi
 
 ## Verificar a publicação
 
-- `/`: busca, categorias e 62 cartões do catálogo inicial.
+- `/`: busca, categorias e 55 cartões do catálogo inicial.
 - `/api/catalog`: JSON público do catálogo.
 - `/gestao`: login administrativo; uma senha errada não libera a API.
 - `/privacidade`: política de privacidade.
@@ -74,6 +74,8 @@ O build confere a sintaxe, os arquivos do PWA, a integridade do catálogo e os t
 - `scripts/`: servidor local e validações.
 - `tests/`: testes de catálogo, pedidos, API e cache offline.
 
-O catálogo é um instantâneo com 60 fotos das galerias e dois itens adicionais. As 22 fotos anteriormente sem nome foram identificadas pelos rótulos oficiais e pelo catálogo do fabricante. As referências de pesquisa estão em `data/aylag-galleries.json`. A leitura do catálogo corrige os campos provisórios de produtos já salvos, preservando alterações da gestão, preços e fotos. As fotos externas dependem dos endereços mantidos pelo fabricante. A prévia HTML independente é uma demonstração; a versão para publicar é a pasta `public` junto da API.
+O catálogo é um instantâneo com 60 fotos das galerias e dois itens adicionais. As 22 fotos anteriormente sem nome foram identificadas pelos rótulos oficiais e pelo catálogo do fabricante. As referências de pesquisa estão em `data/aylag-galleries.json`. A migração `2026-10-06-retail-v1` aplica os preços finais uma vez aos produtos já salvos e corrige os textos e fotos originais. Depois de salvar pela gestão, os preços editados prevalecem. Textos e fotos personalizados são preservados. As gravações no Redis usam comparação atômica para impedir sobrescrita por sessões concorrentes. As 62 fotos verificadas estão no próprio projeto, em `public/assets/products/`, com os bytes originais preservados. A prévia HTML independente é uma demonstração; a versão para publicar é a pasta `public` junto da API.
 
 O carrinho fica no aparelho do cliente. O service worker guarda apenas a loja e o catálogo público; login e gestão sempre consultam o servidor. O WhatsApp abre com o pedido preenchido, e o cliente confirma o envio no aplicativo.
+
+A coluna Valor venda é arredondada para centavos (meio para cima), sem acrescentar IPI, margem ou frete. Códigos e referências dos valores finais estão em `data/retail-prices.json`; custos de compra não são publicados.

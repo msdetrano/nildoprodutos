@@ -21,3 +21,7 @@ for(const name of ['index.html','admin.html','privacidade.html']){
 const manifest=JSON.parse(await readFile(join(root,'public','manifest.webmanifest'),'utf8'));
 for(const icon of manifest.icons)await access(join(root,'public',icon.src));
 console.log('Sintaxe, páginas e arquivos do PWA verificados.');
+
+const catalog=JSON.parse(await readFile(join(root,'data/catalog.json'),'utf8'));
+for(const product of catalog.products)for(const image of product.images)if(image.startsWith('/assets/products/'))await access(join(root,'public',image));
+console.log('Fotos locais dos produtos verificadas.');

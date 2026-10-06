@@ -6,7 +6,7 @@ const gallery=JSON.parse(await readFile(new URL('../data/aylag-galleries.json',i
 const hash=u=>(u.match(/8f8890_[a-f0-9]{32}~mv2\.(?:jpg|png)/)||[])[0];
 test('as 60 fotos das quatro galerias Aylag estão representadas',()=>{
  assert.equal(gallery.length,60);assert.equal(seed.products.length,62);
- for(const item of gallery)assert.ok(seed.products.some(p=>p.images.some(u=>hash(u)===hash(item.image))),`Foto ausente ${item.code}`);
+ for(const item of gallery)assert.ok(seed.products.some(p=>p.images.includes(item.local_image)),`Foto ausente ${item.code}`);
 });
 test('as quatro categorias e o número WhatsApp estão configurados',()=>{
  assert.deepEqual(Object.fromEntries([...new Set(seed.products.map(p=>p.category))].map(c=>[c,seed.products.filter(p=>p.category===c).length])),{'Casa & Limpeza':26,'Lavanderia':15,'Automotiva & Profissional':8,'Cosméticos':13});
@@ -15,7 +15,7 @@ test('as quatro categorias e o número WhatsApp estão configurados',()=>{
 test('todos os anúncios têm nome e descrição; as 22 identificações guardam a fonte oficial',()=>{
  assert.equal(gallery.filter(p=>!p.verified_name).length,0);
  assert.equal(seed.products.filter(p=>p.needsReview).length,0);
- assert.equal(gallery.filter(p=>p.identity_evidence).length,22);
+ assert.equal(gallery.filter(p=>p.identity_evidence).length,23);
  for(const product of seed.products){
   assert.doesNotMatch(product.name,/Produto Aylag · foto/);
   assert.doesNotMatch(product.description,/Imagem da galeria oficial|O fabricante não informa|Mostre a foto/);

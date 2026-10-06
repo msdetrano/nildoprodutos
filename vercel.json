@@ -51,7 +51,10 @@
   ],
   "functions": {
     "api/**/*.js": {
-      "includeFiles": "data/catalog.json"
+      "includeFiles": [
+        "data/catalog.json",
+        "data/catalog-migration.json"
+      ]
     }
   },
   "buildCommand": "npm run build",

@@ -1,4 +1,4 @@
-const CACHE='nildo-catalogo-v6';
+const CACHE='nildo-catalogo-v7';
 const SHELL=['/','/index.html','/styles.css','/app.js','/order.mjs','/manifest.webmanifest','/assets/icon-192.png','/assets/icon-512.png','/assets/photo-placeholder.svg'];
 const SHELL_PATHS=new Set(SHELL);
 self.addEventListener('install',event=>{

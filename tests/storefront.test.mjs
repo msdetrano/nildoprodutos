@@ -22,16 +22,16 @@ async function storefront({blockedStorage=false,notice=''}={}){
 }
 test('catálogo inicia mesmo quando o navegador bloqueia armazenamento local',async()=>{
   const page=await storefront({blockedStorage:true});assert.deepEqual(page.errors,[]);
-  assert.equal(page.elements.get('#resultCount').textContent,'62 produtos encontrados');assert.equal(page.css['--base'],'17px');
+  assert.equal(page.elements.get('#resultCount').textContent,'55 produtos encontrados');assert.equal(page.css['--base'],'17px');
 });
 test('aviso salvo na gestão é exibido no catálogo',async()=>{
   const page=await storefront({notice:'Combine a entrega pelo WhatsApp.'});const notice=page.elements.get('#storeNotice');
   assert.equal(notice.hidden,false);assert.equal(notice.textContent,'Combine a entrega pelo WhatsApp.');
 });
 test('seleção e envio abrem uma única mensagem WhatsApp para o Nildo',async()=>{
-  const page=await storefront();const id=seed.products[0].id;
+  const page=await storefront();const selected=seed.products.find(p=>p.active);const id=selected.id;
   page.elements.get('#products').handlers.click({target:{closest(selector){return selector==='[data-add]'?{dataset:{add:id}}:null;}}});
   page.elements.get('#floatingCart').onclick();assert.equal(page.elements.get('#sendOrder').disabled,false);
   page.elements.get('#sendOrder').onclick();assert.equal(page.navigations.length,1);
-  assert.match(page.navigations[0],/^https:\/\/wa\.me\/5514996437437\?text=/);assert.ok(decodeURIComponent(page.navigations[0]).includes(seed.products[0].name));
+  assert.match(page.navigations[0],/^https:\/\/wa\.me\/5514996437437\?text=/);assert.ok(decodeURIComponent(page.navigations[0]).includes(selected.name));
 });

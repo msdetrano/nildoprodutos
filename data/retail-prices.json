@@ -1,0 +1,456 @@
+{
+  "source": "Coluna Valor venda da tabela fornecida pelo usuário em 2026-10-06",
+  "currency": "BRL",
+  "unit": "unidade",
+  "rounding": "Decimal ROUND_HALF_UP, 2 casas decimais; sem adicionar IPI, margem ou frete",
+  "items": [
+    {
+      "productId": "aylag-020",
+      "sku": "379",
+      "supplierName": "DESENGORDURANTE 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "15.565",
+      "priceCents": 1557
+    },
+    {
+      "productId": "aylag-023",
+      "sku": "79",
+      "supplierName": "DESINFETANTES 2 LITROS - ALGAS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-024",
+      "sku": "80",
+      "supplierName": "DESINFETANTES 5 LITROS - ALGAS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "14.64625",
+      "priceCents": 1465
+    },
+    {
+      "productId": "aylag-025",
+      "sku": "143",
+      "supplierName": "DESINFETANTES 2 LITROS - EUCALIPTO",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-031",
+      "sku": "144",
+      "supplierName": "DESINFETANTES 5 LITROS - EUCALIPTO",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "14.64625",
+      "priceCents": 1465
+    },
+    {
+      "productId": "aylag-032",
+      "sku": "149",
+      "supplierName": "DESINFETANTES 5 LITROS - FLORAL",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "14.64625",
+      "priceCents": 1465
+    },
+    {
+      "productId": "aylag-033",
+      "sku": "153",
+      "supplierName": "DESINFETANTES 2 LITROS - JASMIM",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-034",
+      "sku": "132",
+      "supplierName": "DESINFETANTES 2 LITROS - MADEIRA DO CAMPO",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-035",
+      "sku": "133",
+      "supplierName": "DESINFETANTES 5 LITROS - MADEIRA DO CAMPO",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "14.64625",
+      "priceCents": 1465
+    },
+    {
+      "productId": "aylag-036",
+      "sku": "174",
+      "supplierName": "DESINFETANTES 2 LITROS - ROSAS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-037",
+      "sku": "175",
+      "supplierName": "DESINFETANTES 5 LITROS - ROSAS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "14.64625",
+      "priceCents": 1465
+    },
+    {
+      "productId": "aylag-038",
+      "sku": "179",
+      "supplierName": "DESINFETANTES 2 LITROS - TALCO",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-039",
+      "sku": "193",
+      "supplierName": "DETERGENTE 2 LITROS - CLEAR",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "9.5",
+      "priceCents": 950
+    },
+    {
+      "productId": "aylag-027",
+      "sku": "293",
+      "supplierName": "DETERGENTE AYLAG 24X500ML - CLEAR",
+      "supplierPack": "24X500ML",
+      "salePriceProvided": "3.578125",
+      "priceCents": 358
+    },
+    {
+      "productId": "aylag-040",
+      "sku": "263",
+      "supplierName": "DETERGENTE 2 LITROS - LIMÃO",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "9.5",
+      "priceCents": 950
+    },
+    {
+      "productId": "aylag-026",
+      "sku": "295",
+      "supplierName": "DETERGENTE AYLAG 24X500ML - LIMÃO",
+      "supplierPack": "24X500ML",
+      "salePriceProvided": "3.578125",
+      "priceCents": 358
+    },
+    {
+      "productId": "aylag-010",
+      "sku": "323",
+      "supplierName": "ÁGUA SANITÁRIA 1 LITRO",
+      "supplierPack": "12X1L",
+      "salePriceProvided": "4.3",
+      "priceCents": 430
+    },
+    {
+      "productId": "aylag-009",
+      "sku": "69",
+      "supplierName": "ÁGUA SANITÁRIA 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "6.875",
+      "priceCents": 688
+    },
+    {
+      "productId": "aylag-008",
+      "sku": "334",
+      "supplierName": "ÁGUA SANITARIA 5 LITROS AYLAG",
+      "supplierPack": "3X5L",
+      "salePriceProvided": "15.205",
+      "priceCents": 1521
+    },
+    {
+      "productId": "aylag-011",
+      "sku": "000385",
+      "supplierName": "ÁGUA SANITARIA 5 LITROS – RENDE MAIS",
+      "supplierPack": "3X5L",
+      "salePriceProvided": "14.95",
+      "priceCents": 1495
+    },
+    {
+      "productId": "aylag-013",
+      "sku": "000004",
+      "supplierName": "ALCOOL LIQUIDO 1L",
+      "supplierPack": "12X1L",
+      "salePriceProvided": "12.41875",
+      "priceCents": 1242
+    },
+    {
+      "productId": "aylag-014",
+      "sku": "524",
+      "supplierName": "ALCOOL LIQUIDO 5L",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "51.6325",
+      "priceCents": 5163
+    },
+    {
+      "productId": "aylag-galeria-c12",
+      "sku": "148",
+      "supplierName": "DESINFETANTES 2 LITROS - FLORAL",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-galeria-c15",
+      "sku": "343",
+      "supplierName": "DESINFETANTES 2 LITROS - LAVANDA",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "7.1225",
+      "priceCents": 712
+    },
+    {
+      "productId": "aylag-016",
+      "sku": "406",
+      "supplierName": "ALVEJANTE S/ CLORO 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "13.7875",
+      "priceCents": 1379
+    },
+    {
+      "productId": "aylag-017",
+      "sku": "18",
+      "supplierName": "ALVEJANTE S/ CLORO 5 LITROS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "27.20125",
+      "priceCents": 2720
+    },
+    {
+      "productId": "aylag-004",
+      "sku": "64",
+      "supplierName": "AMACIANTE 5 LITROS - AZUL",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "20.2375",
+      "priceCents": 2024
+    },
+    {
+      "productId": "aylag-003",
+      "sku": "39",
+      "supplierName": "AMACIANTE 2 LITROS - AZUL",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "8.7825",
+      "priceCents": 878
+    },
+    {
+      "productId": "aylag-007",
+      "sku": "429",
+      "supplierName": "AMACIANTE AZUL – RENDE MAIS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "8.5",
+      "priceCents": 850
+    },
+    {
+      "productId": "aylag-001",
+      "sku": "40",
+      "supplierName": "AMACIANTE 2 LITROS - BRANCO",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "8.7825",
+      "priceCents": 878
+    },
+    {
+      "productId": "aylag-002",
+      "sku": "63",
+      "supplierName": "AMACIANTE 5 LITROS - BRANCO",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "20.2375",
+      "priceCents": 2024
+    },
+    {
+      "productId": "aylag-005",
+      "sku": "41",
+      "supplierName": "AMACIANTE 2 LITROS - ROSA",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "8.7825",
+      "priceCents": 878
+    },
+    {
+      "productId": "aylag-006",
+      "sku": "66",
+      "supplierName": "AMACIANTE 5 LITROS - ROSA",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "20.2375",
+      "priceCents": 2024
+    },
+    {
+      "productId": "aylag-galeria-l10",
+      "sku": "44",
+      "supplierName": "LAVA ROUPAS 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "15.575",
+      "priceCents": 1558
+    },
+    {
+      "productId": "aylag-galeria-l11",
+      "sku": "235",
+      "supplierName": "LAVA ROUPAS 5 LITROS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "34.75",
+      "priceCents": 3475
+    },
+    {
+      "productId": "aylag-galeria-l12",
+      "sku": "43",
+      "supplierName": "LAVA ROUPAS COCO 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "15.575",
+      "priceCents": 1558
+    },
+    {
+      "productId": "aylag-galeria-l13",
+      "sku": "238",
+      "supplierName": "LAVA ROUPAS COCO 5 LITROS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "34.75",
+      "priceCents": 3475
+    },
+    {
+      "productId": "aylag-galeria-l14",
+      "sku": "429",
+      "supplierName": "AMACIANTE AZUL – RENDE MAIS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "8.5",
+      "priceCents": 850
+    },
+    {
+      "productId": "aylag-021",
+      "sku": "000154",
+      "supplierName": "DESENGORDURANTE ALCALINO CLORADO 5L",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "45.4",
+      "priceCents": 4540
+    },
+    {
+      "productId": "aylag-022",
+      "sku": "346",
+      "supplierName": "DESENGRAXANTE 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "21.5",
+      "priceCents": 2150
+    },
+    {
+      "productId": "aylag-galeria-a02",
+      "sku": "371",
+      "supplierName": "SHAMPOO AUTOMOTIVO 1 LITRO",
+      "supplierPack": "6X1L",
+      "salePriceProvided": "10.625",
+      "priceCents": 1063
+    },
+    {
+      "productId": "aylag-galeria-a03",
+      "sku": "370",
+      "supplierName": "SHAMPOO AUTOMOTIVO 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "18.6",
+      "priceCents": 1860
+    },
+    {
+      "productId": "aylag-galeria-a04",
+      "sku": "369",
+      "supplierName": "SHAMPOO AUTOMOTIVO 5 LITROS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "36.25",
+      "priceCents": 3625
+    },
+    {
+      "productId": "aylag-galeria-a05",
+      "sku": "348",
+      "supplierName": "LIMPA BAÚ (ATIVADO) 2 LITROS",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "23.5",
+      "priceCents": 2350
+    },
+    {
+      "productId": "aylag-galeria-a06",
+      "sku": "376",
+      "supplierName": "LIMPA PNEU 1 LITRO",
+      "supplierPack": "6X1L",
+      "salePriceProvided": "15.685",
+      "priceCents": 1569
+    },
+    {
+      "productId": "aylag-galeria-a07",
+      "sku": "468",
+      "supplierName": "LIMPA PNEU 5 LITROS",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "47.05",
+      "priceCents": 4705
+    },
+    {
+      "productId": "aylag-028",
+      "sku": "255",
+      "supplierName": "SABONETE LÍQUIDO 5L - ERVA DOCE",
+      "supplierPack": "3X5L",
+      "salePriceProvided": "23.995",
+      "priceCents": 2400
+    },
+    {
+      "productId": "aylag-030",
+      "sku": "489",
+      "supplierName": "SABONETE LÍQUIDO 5L - NEUTRO",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "23.995",
+      "priceCents": 2400
+    },
+    {
+      "productId": "aylag-029",
+      "sku": "530",
+      "supplierName": "SABONETE PEROLADO 5L - ERVA DOCE",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "32.68",
+      "priceCents": 3268
+    },
+    {
+      "productId": "aylag-galeria-s03",
+      "sku": "000351",
+      "supplierName": "SABONETE LÍQUIDO 1L - ERVA DOCE",
+      "supplierPack": "6X1L",
+      "salePriceProvided": "9.7",
+      "priceCents": 970
+    },
+    {
+      "productId": "aylag-galeria-s04",
+      "sku": "536",
+      "supplierName": "SABONETE PEROLADO 1L - ERVA DOCE",
+      "supplierPack": "6X1L",
+      "salePriceProvided": "10.75",
+      "priceCents": 1075
+    },
+    {
+      "productId": "aylag-galeria-s05",
+      "sku": "000031",
+      "supplierName": "SABONETE LÍQUIDO 2L - ERVA DOCE",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "14.6125",
+      "priceCents": 1461
+    },
+    {
+      "productId": "aylag-galeria-s09",
+      "sku": "000353",
+      "supplierName": "SABONETE LÍQUIDO 1L - PITANGA",
+      "supplierPack": "6X1L",
+      "salePriceProvided": "9.7",
+      "priceCents": 970
+    },
+    {
+      "productId": "aylag-galeria-s10",
+      "sku": "000402",
+      "supplierName": "SABONETE LÍQUIDO 2L - PITANGA",
+      "supplierPack": "6X2L",
+      "salePriceProvided": "14.6125",
+      "priceCents": 1461
+    },
+    {
+      "productId": "aylag-galeria-s11",
+      "sku": "204",
+      "supplierName": "SABONETE PEROLADO 5L - PITANGA",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "32.68",
+      "priceCents": 3268
+    },
+    {
+      "productId": "aylag-galeria-s13",
+      "sku": "000174",
+      "supplierName": "SABONETE LÍQUIDO ANTISSÉPTICO 4X5L",
+      "supplierPack": "4X5L",
+      "salePriceProvided": "55.675",
+      "priceCents": 5568
+    }
+  ]
+}

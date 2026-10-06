@@ -22,7 +22,7 @@ test('catálogo embarcado funciona em produção sem Redis, mesmo com outro dire
   try{
     process.chdir(temp);
     const result=await invoke(catalog);
-    assert.equal(result.statusCode,200);assert.equal(result.body.products.length,62);
+    assert.equal(result.statusCode,200);assert.equal(result.body.products.length,55);
     assert.equal(result.body.settings.whatsapp,'5514996437437');
     await assert.rejects(saveCatalog(result.body),/conecte um banco Upstash Redis/);
     process.env.WHATSAPP_NUMBER='55 (11) 99999-9999';
@@ -39,11 +39,12 @@ test('gestão exige senha e origem corretas; sessão permite CRUD persistido no 
   const originalFetch=globalThis.fetch,store=new Map();
   globalThis.fetch=async(url,options)=>{
     assert.equal(url,'https://redis.example.test');assert.ok(options.signal);
-    const [command,key,value]=JSON.parse(options.body);let result=null;
+    const args=JSON.parse(options.body);const [command,key,value]=args;let result=null;
     if(command==='GET')result=store.get(key)||null;
     if(command==='SET'){store.set(key,value);result='OK';}
     if(command==='INCR'){result=Number(store.get(key)||0)+1;store.set(key,result);}
     if(command==='EXPIRE')result=1;
+    if(command==='EVAL'){const [,script,count,catalogKey,expected,next]=args;assert.equal(count,1);result=(store.get(catalogKey)||'')===expected?1:0;if(result)store.set(catalogKey,next);}
     return Response.json({result});
   };
   try{
@@ -56,10 +57,18 @@ test('gestão exige senha e origem corretas; sessão permite CRUD persistido no 
     const cookie=login.headers['set-cookie'].split(';')[0];
     assert.equal((await invoke(auth,{cookie})).body.authenticated,true);
     assert.equal((await invoke(auth,{cookie:cookie.replace(/.$/,'!')})).body.authenticated,false);
-    const product={name:'Produto de teste',category:'Lavanderia',volume:'1 litro',description:'Teste',price:1290,images:[],active:true};
+    const product={name:'Produto de teste',category:'Lavanderia',volume:'1 litro',description:'Teste',price:1290,images:['/assets/products/c01.jpg'],active:true};
     const created=await invoke(products,{method:'POST',cookie,body:{product}});
     assert.equal(created.statusCode,201);const id=created.body.product.id;
     assert.ok((await getCatalog()).products.some(item=>item.id===id));
+    const existing=(await getCatalog()).products.find(item=>item.active&&item.sku);
+    assert.equal((await invoke(products,{method:'POST',cookie,body:{product:{...product,sku:existing.sku}}})).statusCode,409);
+    const staleVersion=(await invoke(products,{cookie})).body.version;
+    const first=await getCatalog(),second=await getCatalog();first.settings.notice='Primeira sessão';second.settings.notice='Segunda sessão';
+    await saveCatalog(first);await assert.rejects(saveCatalog(second),/mudou em outra sessão/);
+    assert.equal((await getCatalog()).settings.notice,'Primeira sessão');
+    const conflict=await invoke(products,{method:'PATCH',cookie,body:{version:staleVersion,settings:{notice:'Não deve sobrescrever'}}});
+    assert.equal(conflict.statusCode,409);assert.equal((await getCatalog()).settings.notice,'Primeira sessão');
     const invalid=await invoke(products,{method:'PUT',cookie,body:{id,product:{...product,price:-1}}});assert.equal(invalid.statusCode,400);
     const updated=await invoke(products,{method:'PUT',cookie,body:{id,product:{...product,active:false,price:1590}}});assert.equal(updated.statusCode,200);
     assert.ok(!(await invoke(catalog)).body.products.some(item=>item.id===id));
@@ -102,7 +111,7 @@ test('API pública corrige catálogo antigo no Redis preservando preços e confi
     const result=await invoke(catalog);assert.equal(result.statusCode,200);
     assert.equal(result.body.products.length,1);assert.equal(result.body.products[0].name,source.name);
     assert.equal(result.body.products[0].description,source.description);assert.equal(result.body.products[0].volume,'5 litros');
-    assert.equal(result.body.products[0].price,3590);assert.equal(result.body.products[0].needsReview,false);
+    assert.equal(result.body.products[0].price,5568);assert.equal(result.body.products[0].needsReview,false);
     assert.equal(result.body.settings.notice,'Minha loja');
   }finally{delete process.env.UPSTASH_REDIS_REST_URL;delete process.env.UPSTASH_REDIS_REST_TOKEN;}
 });
