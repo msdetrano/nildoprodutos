@@ -4,6 +4,10 @@ import {fileURLToPath} from 'node:url';
 import {execFileSync} from 'node:child_process';
 
 const root=fileURLToPath(new URL('../',import.meta.url));
+const vercel=JSON.parse(await readFile(join(root,'vercel.json'),'utf8'));
+for(const [pattern,config] of Object.entries(vercel.functions||{})){
+  for(const field of ['includeFiles','excludeFiles'])if(config[field]!==undefined&&typeof config[field]!=='string')throw Error(`Vercel: ${pattern}.${field} deve ser uma expressão glob em texto.`);
+}
 async function checkDirectory(directory){
   for(const entry of await readdir(join(root,directory),{withFileTypes:true})){
     const path=join(directory,entry.name);
